@@ -8,7 +8,7 @@ or
 
 then run
 
-`git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim`
+`git clone https://github.com/njhamann/nvim_config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim`
 
 # kickstart.nvim
 
